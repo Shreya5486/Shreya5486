@@ -11,27 +11,31 @@
 
 ---
 
+
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shreya-pal-067921">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/shreya-pal-067921" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Shreya5486">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Shreya5486" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/Shreya_Pal124">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Shreya_Pal124" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/leetcode.svg" width="50" height="50" alt="LeetCode"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/2k23_psitaiml215">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/2k23_psitaiml215" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="50" height="50" alt="HackerRank"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:shreyapal4635@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Gmail"/>
   </a>
 </p>
 
----
 
 ## 💻 Tech Stack
 
