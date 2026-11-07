@@ -12,29 +12,31 @@
 ---
 
 
+
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/shreya-pal-067921" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Shreya5486" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Shreya_Pal124" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/leetcode.svg" width="50" height="50" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/2k23_psitaiml215" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="50" height="50" alt="HackerRank"/>
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45" height="45" alt="HackerRank"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:shreyapal4635@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Gmail"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail"/>
   </a>
 </p>
+
 
 
 ## 💻 Tech Stack
