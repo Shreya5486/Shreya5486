@@ -98,19 +98,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Shreya5486&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shreya5486&layout=compact&theme=tokyonight" height="180" alt="Top Languages"/>
-</p>
-
-
----
-
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
