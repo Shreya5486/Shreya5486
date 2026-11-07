@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shreya-pal-067921" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Shreya5486" target="_blank">
